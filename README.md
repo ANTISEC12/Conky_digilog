@@ -48,9 +48,9 @@ First install under packages:
 	
 	
 
- For archlinux maybe you should install `conky-lua` from AUR. 
+ `For archlinux maybe you should install `conky-lua` from AUR.`
  
-Extract Conky_digilog  to ~/.conky
-Install all fonts in .fonts dir!
- - First run CDL1 and then CDL1-1, CDL1-2 (from conky-manager)
+- Extract Conky_digilog  to ~/.conky
+- Install all fonts in .fonts dir!
+- First run CDL1 and then CDL1-1, CDL1-2 (from conky-manager)
  
