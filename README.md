@@ -10,7 +10,7 @@ First install under packages:
 - conky-manager
 - lua5.2 (or latest)
 
-	```
+
 ###  In Debain Base Distros :
 	
 	
@@ -46,7 +46,7 @@ First install under packages:
 	
 	sudo pacman -S lua5.2
 	
-	```
+	
 
  For archlinux maybe you should install `conky-lua` from AUR. 
  
