@@ -4,16 +4,15 @@
 This project allows you to better manage/monitor your Linux hardware and software resources.
 
 ## Installation
-First installtion under packages:
+First install under packages:
 - vnstat
 - conky (or conky-all / conky-lua)
 - conky-manager
 - lua5.2 (or latest)
-Extract Conky_digilog  to ~/.conky
-Install all fonts in .fonts dir!
- - First run CDL1 and then CDL1-1, CDL1-2 (from conky-manager)
-###  In Debain Base Distros :
+
 	```
+###  In Debain Base Distros :
+	
 	
     sudo apt-get update 
  
@@ -25,10 +24,9 @@ Install all fonts in .fonts dir!
     
     sudo apt install lua5.2
     
- 	```
+ 	
 ### In Fedora Base Distros :
 
-	```
     sudo dnf update
 
     sudo dnf install vnstat
@@ -37,9 +35,9 @@ Install all fonts in .fonts dir!
     
     sudo dnf install lua5.2
     
-	```
+	
 ### In Arch Base Distros :
-	```
+	
 	sudo pacman -Syu
 	
 	sudo pacman -S vnstat
@@ -52,4 +50,7 @@ Install all fonts in .fonts dir!
 
  For archlinux maybe you should install `conky-lua` from AUR. 
  
+Extract Conky_digilog  to ~/.conky
+Install all fonts in .fonts dir!
+ - First run CDL1 and then CDL1-1, CDL1-2 (from conky-manager)
  
