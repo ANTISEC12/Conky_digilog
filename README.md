@@ -1,7 +1,7 @@
 #  Conky_digilog <br/>
 <div align="center"><a href=""><img src="http://s8.picofile.com/file/8352588468/sc.png"  width="500"></a></div>
 <div align="center"><a href=""><img src="http://s9.picofile.com/file/8352585384/coccccc.gif"></a></div><br/>
-This conky allows you to better manage/monitor your GNU/Linux hardware and software resources.
+This conky allows you to better manage/monitor  storage, bandwidth and resources in your GNU/Linux.
 
 ## Installation
 First install under packages:
