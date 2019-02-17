@@ -5,9 +5,8 @@
 
 # Installation
 
-# In Debain Base Distros :
+###  In Debain Base Distros :
 ```
-
     sudo apt-get update 
  
     sudo apt-get upgrade
@@ -17,7 +16,6 @@
     sudo apt install conky-manager
     
     sudo apt install lua5.2
-
  ```
 # In Fedora Base Distros :
 
@@ -44,4 +42,6 @@
 
 
  ```
+
+
  For archlinux maybe you should install `conky-lua` from AUR. 
