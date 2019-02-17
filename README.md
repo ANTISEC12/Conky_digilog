@@ -3,7 +3,7 @@ This project allows you to better manage/monitor your Linux hardware and softwar
 
 <div align="center"><a href=""><img src="http://s8.picofile.com/file/8352588468/sc.png"  width="500"></a></div><br/>
 
-<div align="center"><a href=""><img src="http://s9.picofile.com/file/8352585384/coccccc.gif"></a></div>
+
 
 ## Installation
 
@@ -35,13 +35,14 @@ This project allows you to better manage/monitor your Linux hardware and softwar
 	```
 ### In Arch Base Distros :
 	```
-    sudo pacman -Syu
+	
+    	sudo pacman -Syu
 
-    sudo pacman -S vnstat
+	sudo pacman -S vnstat
 
-    sudo pacman -S conky-manager
+   	 sudo pacman -S conky-manager
     
-    sudo pacmam -S lua5.2
+   	 sudo pacmam -S lua5.2
     
  	```
 ########
