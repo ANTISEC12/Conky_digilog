@@ -4,9 +4,14 @@
 This project allows you to better manage/monitor your Linux hardware and software resources.
 
 ## Installation
-  Extract Conky_digilog  to ~/.conky
-  Install all fonts in .fonts dir!
-	 - First run CDL1 and then CDL1-1, CDL1-2 (from conky-manager)
+First installtion under packages:
+- vnstat
+- conky (or conky-all / conky-lua)
+- conky-manager
+- lua5.2 (or latest)
+Extract Conky_digilog  to ~/.conky
+Install all fonts in .fonts dir!
+ - First run CDL1 and then CDL1-1, CDL1-2 (from conky-manager)
 ###  In Debain Base Distros :
 	```
 	
