@@ -1,6 +1,6 @@
 #  Conky_digilog <br/>
 This project allows you to better manage/monitor your Linux hardware and software resources.
-<div align="center"><a href=""><img src="http://s8.picofile.com/file/8352588468/Screenshot_from_2019_02_17_22_56_04.png"></a></div>
+<div align="center"><a href=""><img src="http://s8.picofile.com/file/8352588468/Screenshot_from_2019_02_17_22_56_04.png"  width="500></a></div>
 <div align="center"><a href=""><img src="http://s9.picofile.com/file/8352585384/coccccc.gif"></a></div>
 
 ## Installation
@@ -20,8 +20,8 @@ This project allows you to better manage/monitor your Linux hardware and softwar
     
  	```
 ### In Fedora Base Distros :
+
 	```
-	
     sudo dnf update
 
     sudo dnf install vnstat
@@ -32,7 +32,7 @@ This project allows you to better manage/monitor your Linux hardware and softwar
     
 	```
 ### In Arch Base Distros :
-    ```
+	```
     sudo pacman -Syu
 
     sudo pacman -S vnstat
