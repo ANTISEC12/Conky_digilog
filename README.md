@@ -47,10 +47,10 @@ First install under packages:
 	sudo pacman -S lua5.2
 	
 	
-
- `For archlinux maybe you should install `conky-lua` from AUR.`
- 
-- Extract Conky_digilog  to ~/.conky
-- Install all fonts in .fonts dir!
+ `For archlinux maybe you should install ```conky-lua``` from AUR.`
+# Configur 
+Extract Conky_digilog  to ~/.conky
+Install all fonts in .fonts dir!
+# Start 
 - First run CDL1 and then CDL1-1, CDL1-2 (from conky-manager)
  
