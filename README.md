@@ -9,7 +9,7 @@ First install under packages:
 - conky (or conky-all / conky-lua)
 - conky-manager
 - lua5.2 (or latest)
-
+- cairo
 
 ###  In Debain Base Distros :
 	
@@ -24,6 +24,8 @@ First install under packages:
     
     sudo apt install lua5.2
     
+    sudo apt install cairo
+    
  	
 ### In Fedora Base Distros :
 
@@ -35,6 +37,7 @@ First install under packages:
     
     sudo dnf install lua5.2
     
+     sudo dnf install cairo
 	
 ### In Arch Base Distros :
 	
@@ -46,6 +49,7 @@ First install under packages:
 	
 	sudo pacman -S lua5.2
 	
+	sudo pacman -S cairo
 	
  `For archlinux maybe you should install ```conky-lua``` from AUR.`
 # Configur 
