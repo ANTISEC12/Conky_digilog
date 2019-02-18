@@ -1,4 +1,5 @@
 #  Conky_digilog <br/>
+<h3>This conky allows you to better manage/monitor  storage, bandwidth and resources in your GNU/Linux. </h3><br/>
 # Digitall 
 <div align="center"><a href=""><img src="http://s8.picofile.com/file/8352588468/sc.png"></a></div>
 <div align="center"><a href=""><img src="http://s9.picofile.com/file/8352585384/coccccc.gif"></a></div><br/>
@@ -6,7 +7,7 @@
 # Analog (Soon) <br/>
 <div align="center"><a href="Soon"><img src="http://s9.picofile.com/file/8352637484/Screenshot_from_2019_02_12_02_47_17.jpg"></a></div>
 
-This conky allows you to better manage/monitor  storage, bandwidth and resources in your GNU/Linux.
+
 
 ## Installation
 First install under packages:
