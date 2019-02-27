@@ -26,7 +26,9 @@ First install under packages:
     sudo apt-get upgrade
 
     sudo apt install vnstat 
-
+    
+    sudo apt install conky-all
+    
     sudo apt install conky-manager
     
     sudo apt install lua5.2
