@@ -54,7 +54,7 @@ First install under packages:
 	
 	sudo pacman -S conky-manager
 	
-	sudo pacman -S lua5.2
+	sudo pacman -S lua52
 	
 	sudo pacman -S cairo
 	
